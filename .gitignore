@@ -1,0 +1,11 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
